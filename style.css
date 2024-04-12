@@ -125,7 +125,7 @@ nav.nav ul.item li.list a:hover {
 .fv-container {
   width: 100%;
   height: 80vh;
-  background: url(./img/azrael_home.jpg) no-repeat;
+  background: url(azrael_home.jpg) no-repeat;
   background-size: cover;
 }
 
