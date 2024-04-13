@@ -50,11 +50,31 @@ h1.contact{
 }
 
 p.contact{
-	padding: 20px;
+	padding: 10px;
 }
 
 p.font-effect-neon{
 	font-size: 2rem;
+}
+
+table.contact{
+	margin: 0 auto;
+	padding: 10px;
+	text-align: left;
+}
+
+th, td {
+  padding: 15px;
+}
+
+
+table.contact tr{
+  background-color: #f7f7f7;
+}
+
+table.contact th{
+  background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+  color: #fff;
 }
 
 /* ヘッダー07 */
@@ -145,6 +165,17 @@ nav.nav ul.item li.list a:hover {
 	}
 	p.font-effect-neon{
 		font-size: 1rem;
+	}
+	h1.privacy,
+	h1.contact{
+		font-size: 1.6rem;
+	}
+	p.privacy,
+	p.contact{
+		font-size: 0.8rem;
+	}
+	table.contact{
+		font-size: 0.8rem;
 	}
   #menu-btn {
     display: block;
