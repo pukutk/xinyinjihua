@@ -1,3 +1,6 @@
 {
-  "item00":"price"
+  "item00":{
+  	"price":48,
+  	"sale_price":24
+  }
 }
